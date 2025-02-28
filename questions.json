@@ -1,0 +1,232 @@
+{
+  "heading": "Percentage",
+  "topics": [
+    {
+      "heading": "Percentage",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What percentage of the given shape is shaded?<br><img width='30%' src='./assests/images/question/1.png'>",
+          "options": [
+            { "text": "80%" },
+            { "text": "85%" },
+            { "text": "90%" },
+            { "text": "95%" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 2,
+          "question": "A factory produces three types of pens (X, Y, and Z) in the ratio 6:4:5. If the total production is 9000 units, what percentage of the total production is of product X?",
+          "options": [
+            { "text": "20%" },
+            { "text": "25%" },
+            { "text": "30%" },
+            { "text": "40%" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 3,
+          "question": "What percentage of the given shape is shaded?<br><img width='37%' src='./assests/images/question/2.png'>",
+          "options": [
+            { "text": "30%" },
+            { "text": "40%" },
+            { "text": "50%" },
+            { "text": "60%" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 4,
+          "question": "If 30% of a number is equal to 60, what is the number?",
+          "options": [
+            { "text": "180" },
+            { "text": "200" },
+            { "text": "220" },
+            { "text": "240" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 5,
+          "question": "If a man starts from the point S and walks 45% of the perimeter of the given regular polygon in the clockwise direction, which side will he reach?<br><img width='55%' src='./assests/images/question/3.png'>",
+          "options": [
+            { "text": "Side 3" },
+            { "text": "Side 4" },
+            { "text": "Side 5" },
+            { "text": "Side 6" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 6,
+          "question": "If a number y is 18% less than number x, and x is 25% more than 160, what is the value of y?",
+          "options": [
+            { "text": "168.75" },
+            { "text": "155.40" },
+            { "text": "156.80" },
+            { "text": "164" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 7,
+          "question": "A bag contains blue, red, and green marbles in the ratio 3:5:7. If there are 180 marbles in total, what percentage are green?",
+          "options": [
+            { "text": "30%" },
+            { "text": "33.33%" },
+            { "text": "40%" },
+            { "text": "45%" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 8,
+          "question": "A shopkeeper increases the price of a phone by 12% and then increases it again by 15%. If the original price was $500, what is the final price?",
+          "options": [
+            { "text": "$615" },
+            { "text": "$630" },
+            { "text": "$644" },
+            { "text": "$660" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 9,
+          "question": "The price of a product was increased by 20%. Later, it was decreased by 25%. What is the overall percentage change?",
+          "options": [
+            { "text": "0%" },
+            { "text": "5% decrease" },
+            { "text": "10% decrease" },
+            { "text": "12% decrease" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "A boy spends 40% of his pocket money on snacks and then donates 20% of the remaining money to charity. If he has $24 left, how much did he originally have?",
+          "options": [
+            { "text": "$40" },
+            { "text": "$50" },
+            { "text": "$60" },
+            { "text": "$75" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 11,
+          "question": "A company increases its workforce from 240 employees to 300 employees. What is the percentage increase in the number of employees?",
+          "options": [
+            { "text": "20%" },
+            { "text": "22%" },
+            { "text": "24%" },
+            { "text": "25%" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 12,
+          "question": "A car loses 15% of its value every year. If it originally cost $40,000, what is its value after one year?",
+          "options": [
+            { "text": "$32,000" },
+            { "text": "$34,000" },
+            { "text": "$36,000" },
+            { "text": "$38,000" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 13,
+          "question": "The number of students in a school drops from 500 to 400. What is the percentage decrease?",
+          "options": [
+            { "text": "15%" },
+            { "text": "18%" },
+            { "text": "20%" },
+            { "text": "25%" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 14,
+          "question": "A store increases prices by 30% and then offers a 10% discount. What is the net price change?",
+          "options": [
+            { "text": "15% increase" },
+            { "text": "17% increase" },
+            { "text": "18% increase" },
+            { "text": "19% increase" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 15,
+          "question": "A square with a side of 12 cm is changed into a rectangle by increasing its length by 25% and decreasing its width by 50%. What is the percentage change in the perimeter?",
+          "options": [
+            { "text": "0%" },
+            { "text": "12.5% decrease" },
+            { "text": "10% increase" },
+            { "text": "12.5% increase" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 16,
+          "question": "The price of a product is first reduced by 12% and then increased by 15%. What is the net percentage change?",
+          "options": [
+            { "text": "1.2% increase" },
+            { "text": "2.2% increase" },
+            { "text": "3.2% increase" },
+            { "text": "4.2% increase" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 17,
+          "question": "A salary is increased by 8% and then decreased by 5%. If the original salary was $60,000, what is the final salary?",
+          "options": [
+            { "text": "$61,560" },
+            { "text": "$62,500" },
+            { "text": "$63,400" },
+            { "text": "$64,200" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 18,
+          "question": "The population of a city increases by 6% annually for 2 years. If the current population is 500,000, what will it be after 2 years?",
+          "options": [
+            { "text": "561,800" },
+            { "text": "562,500" },
+            { "text": "565,000" },
+            { "text": "570,000" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 19,
+          "question": "The price of an item is first increased by 30% and then decreased by 30%. What is the final price if the original price was $200?",
+          "options": [
+            { "text": "$180" },
+            { "text": "$182" },
+            { "text": "$185" },
+            { "text": "$190" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 20,
+          "question": "A football team wins 18 out of 24 matches in a season. What percentage of matches did they win?",
+          "options": [
+            { "text": "72%" },
+            { "text": "75%" },
+            { "text": "78%" },
+            { "text": "80%" }
+          ],
+          "answer": 1
+        }
+      ]
+      
+      
+    }
+  ]
+}

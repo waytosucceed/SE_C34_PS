@@ -72,7 +72,7 @@
         },
         {
           "questionNo": 7,
-          "question": "A bag contains blue, red, and green marbles in the ratio 3:5:7. If there are 180 marbles in total, what percentage are green?",
+          "question": "A bag contains blue, red, and green marbles in the ratio 3:5:7. If there are 180 marbles in total, what percentage are red?",
           "options": [
             { "text": "30%" },
             { "text": "33.33%" },
